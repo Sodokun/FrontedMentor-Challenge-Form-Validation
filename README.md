@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Fronted Mentor Profile](https://www.frontendmentor.io/solutions/form-sign-up-with-validation-in-js-boostrap5-05CejY2Qzc)
+- Live Site URL: [Netlify](statuesque-truffle-f7490a.netlify.app)
 
 ## My process
 
