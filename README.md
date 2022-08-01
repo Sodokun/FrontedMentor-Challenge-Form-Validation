@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Fronted Mentor Profile](https://www.frontendmentor.io/solutions/form-sign-up-with-validation-in-js-boostrap5-05CejY2Qzc)
-- Live Site URL: [Netlify](statuesque-truffle-f7490a.netlify.app)
+- Live Site URL: [Netlify](https://statuesque-truffle-f7490a.netlify.app)
 
 ## My process
 
